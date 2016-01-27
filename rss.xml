@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Stanziliëri]]></title>
         <description><![CDATA[Stanziliëri]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stanzilieri/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 23:13:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 11:34:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stanzilieri/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee750c24-b6c6-4e9b-a1bc-8de8a73f6143.jpg">]]></description>
+            <link>https://thegrid.ai/stanzilieri/d9b98acc-4586-4589-b59d-da61b1743bed/index.html</link>
+            <guid isPermaLink="false">d9b98acc-4586-4589-b59d-da61b1743bed</guid>
+            <pubDate>Wed, 27 Jan 2016 11:13:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cd4ffef-7ace-42c0-96c9-af73e00cb4e0.jpg">]]></description>
-            <link>undefined845fe957-edea-4e5b-9929-5c7ff7ab116a/index.html</link>
+            <link>https://thegrid.ai/stanzilieri/845fe957-edea-4e5b-9929-5c7ff7ab116a/index.html</link>
             <guid isPermaLink="false">845fe957-edea-4e5b-9929-5c7ff7ab116a</guid>
             <pubDate>Sun, 10 Jan 2016 23:13:14 GMT</pubDate>
         </item>
