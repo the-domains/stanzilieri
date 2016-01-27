@@ -1,7 +1,7 @@
 name: Stanziliëri
 favicon: null
-layout_spectrum: 0.30865072016604245
-typography_spectrum: 0.042812146712094545
+layout_spectrum: 0.24758
+typography_spectrum: 0.07335
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.18697979347780347
-  lightness: 0.44061056384816766
-  saturation: 0.09087826311588287
-  rhythmicContrast: 0.5188942886888981
+    - '#ededed'
+    - '#4b4a4f'
+    - '#7a797e'
+    - '#28282a'
+    - '#e9ab96'
+  brandStrength: 0.25
+  lightness: 0.5
+  saturation: 0.125
+  rhythmicContrast: 0.5
 purpose: []
